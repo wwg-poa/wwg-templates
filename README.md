@@ -1,4 +1,4 @@
-# wwg_templates
+# Women Who Go Templates
 
 This repository contains images, logos, power point templates and other materials to help promote Women Who Go events around the world.
 
