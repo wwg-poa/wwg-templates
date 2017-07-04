@@ -23,5 +23,3 @@ The gopher images are Creative Commons Attributions 3.0 licensed and are credite
 For more information about our mascot, please refer to:
 
 https://blog.golang.org/gopher
-
-The Wonder Women Who Go logo was designed by Daniela Petruzalek and follows the same licensing.
