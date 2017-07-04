@@ -9,11 +9,12 @@ This repository contains images, logos, power point templates and other material
 # Stickers
 
 [Wonder Women Who Go - POA](./stickers/wwg_sticker_poa.png)
+
 [Wonder Women Who Go - RIO](./stickers/wwg_sticker_rio.png)
 
 # Vector Art
 
-[Wonder Women Who Go](./stickers/wwg_sticker.sketch) Note: This file was created using Sketch for MAC.
+[Wonder Women Who Go](./stickers/wwg_sticker.sketch) (Note: This file was created using Sketch for MAC)
 
 # The Golang Gopher
 
